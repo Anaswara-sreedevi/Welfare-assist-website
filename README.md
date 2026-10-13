@@ -1,4 +1,5 @@
 # WelfareAssist (വെൽഫെയർ Assist)
+Link - https://wellfare-assist-k7ns.vercel.app/
 ### Multilingual Welfare-Entitlement Screening Assistant for Plantation & Fishing Families
 
 > **IMPORTANT DISCLAIMER**: The resource pack included in this prototype is **simulated demo data** created for demonstration purposes. It is strictly designed to be replaced with the organiser-provided verified resource pack. Potential eligibility is only a preliminary screening result based on the provided household details and demo rules; it does not guarantee approval or benefits. Final eligibility is determined solely by the concerned authority.
