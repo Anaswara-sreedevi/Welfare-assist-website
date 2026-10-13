@@ -1,0 +1,2 @@
+"""WelfareAssist database package"""
+
